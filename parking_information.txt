@@ -1,0 +1,4 @@
+Total Visited Cars:1
+Total Emergency Cars:8
+Total Cash at the End of Day: $5040
+Total Amount Earned by the gateSelector Machine: $15
